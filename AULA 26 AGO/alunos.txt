@@ -1,0 +1,5 @@
+nome; idade; curso
+matheus; 23; sistinfo
+bianca; 20; sistinfo
+lucas; 19; sistinfo
+guilherme; 20; sistinfo
